@@ -1,5 +1,6 @@
-Chitkara Fashion Arena
-Welcome to the Chitkara Fashion Arena, a simple point-of-sale (POS) system built using Python's Tkinter library. This application allows users to add fashion items to a cart, calculate the total bill, and process payments via cash or card. The application also handles item validation, quantity validation, and provides appropriate error messages for incorrect inputs.
+#Chitkara Fashion Arena
+
+#Welcome to the Chitkara Fashion Arena, a simple point-of-sale (POS) system built using Python's Tkinter library. This application allows users to add fashion items to a cart, calculate the total bill, and process payments via cash or card. The application also handles item validation, quantity validation, and provides appropriate error messages for incorrect inputs.
 
 Features
 Inventory Management: A predefined inventory of fashion items with their respective prices.
